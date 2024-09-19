@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: registry.digitalocean.com/reg-joombot-ai-nyc3/tintq-python:dev
+  repository: registry.digitalocean.com/reg-joombot-ai-nyc3/tintq-python
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
 tag: "dev"
